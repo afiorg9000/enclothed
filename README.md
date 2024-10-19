@@ -2,6 +2,9 @@
 
 Enclothed is a project developed as part of the Buildspace program, where participants take an idea from zero to proof of concept. This project focuses on generating realistic images of an avatar wearing a specific clothing item by training models on images of a person and a dummy clothing item.
 
+![GQzeq2HaQAEw4Wb](https://github.com/user-attachments/assets/6e6b2672-2aab-41b2-aec1-9cc1f7455f6f)
+
+
 ## Overview
 
 The project involves several stages:
